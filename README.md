@@ -63,6 +63,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sajansaji/sajansaji/output/snake.svg" alt="Snake animation" />
-
-###
