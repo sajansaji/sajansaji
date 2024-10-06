@@ -17,7 +17,9 @@
   <a href="https://www.facebook.com/iamsajansaji" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="59" height="25" alt="facebook logo"  />
   </a>
+  <a href="https://www.instagram.com/iamsajansaji">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
